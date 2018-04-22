@@ -4,8 +4,8 @@
       "description":"Languages such as Pegakibo, Vötgil, Zese and others "
    },
    "language":{
-      "os_kr":{
-         "name":"Keru",
+      "os_pk":{
+         "name":"Pegakibo",
          "region":"Ostracod Pond",
          "bidirectional":false
       }
