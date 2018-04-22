@@ -1,19 +1,9 @@
 {
    "pack":{
       "pack_format":1,
-      "description":"Languages such as Pegakibo, Vötgil, Zese and others"
+      "description":"Languages such as Pegakibo, VÃ¶tgil, Zese and others"
    },
    "language":{
-      "os_vg":{
-         "name":"Vötgil",
-         "region":"Ostracod Pond",
-         "bidirectional":false
-      }
-      "os_zs":{
-         "name":"Zese",
-         "region":"Ostracod Pond",
-         "bidirectional":false
-      }
       "os_pk":{
          "name":"Pegakibo",
          "region":"Ostracod Pond",
