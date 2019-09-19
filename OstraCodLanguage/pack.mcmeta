@@ -9,5 +9,10 @@
          "region":"Ostracod Pond",
          "bidirectional":false
       }
+      "os_vg":{
+         "name":"Vötgil",
+         "region":"Ostracod Pond",
+         "bidirectional":false
+      }
    }
 }
